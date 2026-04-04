@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1IbpcUgvbEeDY2wMOEIuLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.naver.com/item/main.naver" DesignTimeRectangle="1318, 441, 112, 19" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl parentid='tab_con1' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' class='' aaname='코스피 위' /&gt;" Guid="b3fca5a1-da44-4015-9cd2-0795ece41ad5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='삼성전자 : Npay 증권' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1196, 444, 73, 12" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='tab_con1' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='link_site' aaname='시가총액순위' check:innerText='시가총액순위' /&gt;" Guid="1fc02603-13ab-47f7-9d84-0db3b43c613d" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ab87a09cbefea29fc16c897c722d8bb.png" xmlns="">0wav6Zlmxh02N5W539KXm4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

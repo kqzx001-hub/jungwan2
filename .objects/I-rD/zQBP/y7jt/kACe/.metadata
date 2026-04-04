@@ -1,0 +1,13 @@
+﻿{
+  "Name": "시가총액순위",
+  "Type": "Element",
+  "Id": "kACegcMC9U2MV8yFvTEIug",
+  "Reference": "S2kubNiSV0ussH4hU7-4zQ/kACegcMC9U2MV8yFvTEIug",
+  "ParentRef": "S2kubNiSV0ussH4hU7-4zQ/y7jtJogMOE2YRAMlp5595Q",
+  "Created": "2026-04-04T10:09:16.2086573Z",
+  "Updated": "2026-04-04T10:09:16.2086573Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

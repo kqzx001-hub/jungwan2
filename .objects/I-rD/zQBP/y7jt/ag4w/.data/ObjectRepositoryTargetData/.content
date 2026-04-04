@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TOoBoDDmRkmbZyK6uBVkNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="finance.naver.com/sise/sise_market_sum.naver" DesignTimeRectangle="651, 544, 56, 12" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl parentid='contentarea' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='tltle' aaname='{0}' check:innerText='{0}' /&gt;&quot;, str_sel)]" Guid="93bc76ac-08f4-47d0-a0b0-7e5ac4d31ef5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='시가총액 : Npay 증권' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="94b5aa89b5a7e9eca380827af228ed18.png" xmlns="">0y27CLC0Rk0C2hNFnIGs6Dw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="삼성전자" Name="str_sel" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

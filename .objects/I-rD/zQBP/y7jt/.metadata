@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 시가총액  Npay 증권",
+  "Type": "Screen",
+  "Id": "y7jtJogMOE2YRAMlp5595Q",
+  "Reference": "S2kubNiSV0ussH4hU7-4zQ/y7jtJogMOE2YRAMlp5595Q",
+  "ParentRef": "S2kubNiSV0ussH4hU7-4zQ/zQBPOb7DOUS-JvFRTp2ioQ",
+  "Created": "2026-04-04T10:04:44.433613Z",
+  "Updated": "2026-04-04T10:04:44.433613Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
